@@ -4,5 +4,5 @@
 
 STM32F103C6: <br>
 **-Dialog DLL:** DARMSTM.DLL <br>
-**-Parameter:** -pSTM32F103C6
+**-Parameter:** -pSTM32F103C6 <br>
 **-Build file HEX:** arm-none-eabi-objcopy -O ihex ${ProjName}.elf ${ProjName}.hex
